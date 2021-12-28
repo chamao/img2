@@ -1,0 +1,161 @@
+
+<!DOCTYPE HTML>
+<html class="no-js">
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1" />
+    <meta charset="UTF-8">
+    <!--IE 8浏览器的页面渲染方式-->
+    <meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
+    <!--默认使用极速内核：针对国内浏览器产商-->
+    <meta name="renderer" content="webkit">
+    <!--针对移动端的界面优化-->
+            <meta name="theme-color" content="#3a3f51" />
+        <!--chrome Android 地址栏颜色-->
+        <meta http-equiv="x-dns-prefetch-control" content="on">
+    <title>页面没找到 - 小茶猫</title>
+            <link rel="icon" type="image/ico" href="/favicon.ico">
+        <meta name="description" content="小茶猫的回忆罢了，所见皆为昙花一现。记时事、记往事，前路有光，后路可寻。此时有花开，可你未曾见。" />
+<meta name="keywords" content="小茶猫,博客,学习,分享,日常,生活,随笔,小茶猫博客,自留地,随笔,生活日常,笔记" />
+<meta name="generator" content="Typecho 1.2/18.10.23" />
+<meta name="template" content="handsome" />
+<link rel="pingback" href="https://xiaochamao.com/action/xmlrpc" />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://xiaochamao.com/action/xmlrpc?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://xiaochamao.com/action/xmlrpc?wlw" />
+<link rel="alternate" type="application/rss+xml" title="页面没找到 &raquo; 小茶猫 &raquo; RSS 2.0" href="https://xiaochamao.com/feed/" />
+<link rel="alternate" type="application/rdf+xml" title="页面没找到 &raquo; 小茶猫 &raquo; RSS 1.0" href="https://xiaochamao.com/feed/rss/" />
+<link rel="alternate" type="application/atom+xml" title="页面没找到 &raquo; 小茶猫 &raquo; ATOM 1.0" href="https://xiaochamao.com/feed/atom/" />
+
+
+    <!-- 第三方CDN加载CSS -->
+        <link href="https://cdn.jsdelivr.net/npm/bootstrap@3.3.7/dist/css/bootstrap.min.css" rel="stylesheet">
+
+
+    <!-- 本地css静态资源 -->
+    <link rel="stylesheet" href="https://xiaochamao.com/usr/themes/handsome/assets/css/origin/function.min.css?v=8.3.02021122501" type="text/css" />
+    <link rel="stylesheet" href="https://xiaochamao.com/usr/themes/handsome/assets/css/handsome.min.css?v=8.3.02021122501" type="text/css" />
+
+
+
+    <!--引入英文字体文件-->
+    
+    <style type="text/css">
+        
+        html.bg {
+        background: #EFEFEF
+        }
+        .cool-transparent .off-screen+#content {
+        background: #EFEFEF
+        }
+@media (max-width:767px){
+    html.bg {
+        background: #EFEFEF
+        }
+        .cool-transparent .off-screen+#content {
+        background: #EFEFEF
+        }
+}
+/*评论一键打卡*/
+.secret_comment {
+    top: 5px;
+}
+.OwO.OwO-open .OwO-body {
+    display:table
+}
+
+/*底部页脚*/
+.github-badge {
+  display: inline-block;
+  border-radius: 4px;
+  text-shadow: none;
+  font-size: 12px;
+  color: #fff;
+  line-height: 15px;
+  background-color: #abbac3;
+  margin-bottom: 5px
+}
+
+.github-badge .badge-subject {
+  display: inline-block;
+  background-color: #4d4d4d;
+  padding: 4px 4px 4px 6px;
+  border-top-left-radius: 4px;
+  border-bottom-left-radius: 4px
+}
+
+.github-badge .badge-value {
+  display: inline-block;
+  padding: 4px 6px 4px 4px;
+  border-top-right-radius: 4px;
+  border-bottom-right-radius: 4px
+}
+
+.github-badge .bg-blue {
+  background-color: #007ec6
+}
+
+.github-badge .bg-orange {
+  background-color: #ffa500
+}
+
+.github-badge .bg-red {
+  background-color: #f00
+}
+
+.github-badge .bg-green {
+  background-color: #3bca6e
+}
+
+.github-badge .bg-purple {
+  background-color: #ab34e9
+}
+/*修复透明背景下时光机右侧 bug*/
+.bg-light .lter, .bg-light.lter {
+    text-align: justify;
+}    </style>
+
+    <!--全站jquery-->
+    <script src="https://cdn.jsdelivr.net/npm/jquery@2.2.4/dist/jquery.min.js"></script>
+
+    <!--网站统计代码-->
+    <script>
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?862e2d2d37b8d3926e15170c113a7bf9";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
+</script>
+</head>
+
+<body>
+<div class="app app-header-fixed ">
+
+
+<div class="container w-xxl w-auto-xs">
+  <div class="text-center m-b-lg">
+    <h1 class="text-shadow text-white">404</h1>
+    <br> <small> <b>10</b>秒后自动返回···<br> <a href="#" onclick="javascript:history.go(-1);">立刻返回</a>
+  </div>
+  <div class="list-group bg-info auto m-b-sm m-b-lg">
+    <a href="https://xiaochamao.com" class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-home m-r-xs"></i>&nbsp;首页    </a>
+            <a href="https://xiaochamao.com/admin/login.php" class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-sign-in m-r-xs"></i>&nbsp;登录    </a>
+    <a href="https://xiaochamao.com/admin/register.php"  class="list-group-item">
+      <i class="fontello fontello-chevron-right text-muted"></i>
+      <i class="fontello fontello-fw fontello-unlock-alt m-r-xs"></i>&nbsp;注册    </a>
+        </div>
+  <div class="text-center">
+    <p>
+  <small class="text-muted letterspacing">如果光明照映在前面，世间黑暗将不复存在。<br>&copy; 2021</small>
+</p>
+  </div>
+</div>
+
+
+</div>
+<script type="text/javascript"> onload = function(){setInterval(go, 1000);};var x=10; function go() {x--;if(x>0) {document.getElementById("sp").innerHTML = x;}else{history.go(-1);}} </script>
+</body>
